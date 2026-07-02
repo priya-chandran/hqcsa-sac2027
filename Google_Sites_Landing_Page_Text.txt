@@ -1,0 +1,27 @@
+Google Sites Landing Page Text
+==============================
+
+Page title:
+Hybrid Quantum-Classical Systems and Architectures (HQCSA)
+
+Subtitle:
+ACM SAC 2027 Track
+
+Main text:
+Welcome to the inaugural HQCSA track at ACM SAC 2027. HQCSA provides a forum for research on hybrid quantum-classical systems, architectures, infrastructures, fault-tolerant computing, security, AI-assisted quantum systems, and real-world applications.
+
+Practical quantum computing will be hybrid. HQCSA focuses on the systems and architectures layer that will make quantum computing scalable, reliable, secure, and deployable.
+
+Button:
+Visit HQCSA Website
+
+Button link:
+Paste the GitHub Pages URL here after publishing.
+
+Secondary links:
+Official ACM SAC 2027 Website:
+https://www.sigapp.org/sac/sac2027/
+
+Contact:
+Prof. Priya Chandran — priya@nitc.ac.in
+Dr. Nikhil Kumar C. S. — nikhilkumarcs@nitc.ac.in
